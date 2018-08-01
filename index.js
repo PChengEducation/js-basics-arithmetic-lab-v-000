@@ -5,9 +5,9 @@ Variables defined in the test suite:
 */
 var newID = 1000000000 + oldID;
 var ageIsValid = Number.isInteger(currentAge);
-const randomNumber = Math.random(0,20);
-var randomInteger = Math.floor(randomNumber);
-var randomUserID = Math.randomInteger(1000000001, 1000000020);
+const randomNumber = Math.random*20;
+const randomInteger = Math.floor(randomNumber);
+const randomUserID = randomInteger + 1000000001;
 
 /*
 You should NOT try to redefine any of the above variables.
