@@ -4,6 +4,7 @@ Variables defined in the test suite:
 - currentAge
 */
 var newID = 1000000000 + oldID;
+Number.isInteger(currentAge);
 
 /*
 You should NOT try to redefine any of the above variables.
